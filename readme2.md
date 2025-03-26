@@ -1,5 +1,5 @@
 <ol>
-    <li>Conceitos basicos</li>
+    <li>Conceitos basicos ✅</li>
     <li>Conteudo clonado do repositorio de rafaballerini</li>
 </ol>
 
